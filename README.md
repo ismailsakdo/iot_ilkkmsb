@@ -11,12 +11,12 @@ You can find below the pipeline to develop a Similar project :
 
 ## [Python part](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266/tree/master/Python%20notebook)
 
-This has been designed using SciKit-learn library for machine learning. This network has been trained on [dataset](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266/blob/master/Python%20notebook/Orientation.csv) created with [Datasets Builder](https://github.com/BaptisteZloch/MakeIT-How-to-build-your-own-datasets-with-Datasets-Builder) my software to create datasets.
-Then this model has been exported into c code .h file. To convert the model I have used [micromlgen](https://github.com/eloquentarduino/micromlgen) python library.
+This has been designed using SciKit-learn library for machine learning algorithm, testing, evaluation and development. This network has been trained on [dataset](https://drive.google.com/file/d/1RVnZ8bWAOIb6zj-c8u4W_f6DXKH8gKId/view?usp=sharing) collected via PhD research journey by Dr. Syazwan Aizat Ismail [UTM](https://osf.io/b4xsw/)
+Then this model has been exported into c code .h file. To convert the model we had used [tensorflow & keras](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/keras/save_and_load.ipynb) python library.
 
 ## [Arduino part](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266/tree/master/Arduino%20code/MAKEIT_SKlearn_Orientation_spot)
 
-In this part I have used VS code and platformIO IDE to deploy the model onto the [ESP8266 WEMOS D1 mini lite](https://www.ebay.fr/itm/NodeMCU-Lua-ESP8266-ESP-12-WeMos-D1-Mini-WIFI-4M-Bytes-Development-CP2104-Board-/173447615078). To do it we had to import our model, and the libraries to use I2C protocol and MPU6050 acccelerometer on the ESP8266.
+In this part I have used VS code and Arduino IDE to deploy the model onto the [ESP8266 WEMOS D1 mini lite](https://www.ebay.fr/itm/NodeMCU-Lua-ESP8266-ESP-12-WeMos-D1-Mini-WIFI-4M-Bytes-Development-CP2104-Board-/173447615078). To do it we had to import our model, and the libraries to use I2C protocol and MPU6050 acccelerometer on the ESP8266.
 
 Here is the schema of the wiring : 
 
