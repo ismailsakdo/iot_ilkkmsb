@@ -9,7 +9,7 @@ You can find below the pipeline to develop a Similar project :
 ![Pipeline](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/logo.png?raw=true)
 
 
-## [Python part](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266/tree/master/Python%20notebook)
+## [Python part](https://github.com/ismailsakdo/iot_ilkkmsb/tree/main/python)
 
 This has been designed using SciKit-learn library for machine learning algorithm, testing, evaluation and development. This network has been trained on [dataset](https://drive.google.com/file/d/1RVnZ8bWAOIb6zj-c8u4W_f6DXKH8gKId/view?usp=sharing) collected via PhD research journey by Dr. Syazwan Aizat Ismail [UTM](https://osf.io/b4xsw/)
 Then this model has been exported into c code .h file. To convert the model we had used [tensorflow & keras](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/keras/save_and_load.ipynb) python library.
