@@ -1,6 +1,10 @@
 # IOT ILKKM Sg Buloh (ThermoHygroSense) - Indoor Air Temperature & Humidity Smart ML Product [IBES](https://ibes.ilkkmsb.edu.my)
 
-This repository is dedicated to another tutorial of my youtube channel MakeIT. This project is about tiny machine learning and how to classify orientation of an ESP8266 using a SciKit-learn machine learning model. It's available [here](https://youtu.be/2Rrz7orwJvU)
+This repository is dedicated to another tutorial of our project in IOT Development for Healthcare Facilities Monitoring System (Smart HFMS). This equipment use MCU and industrial sensor to be used as monitoring devices for indoor air quality parameters namely as Temperature and Humidity. 
+
+
+
+my youtube channel MakeIT. This project is about tiny machine learning and how to classify orientation of an ESP8266 using a SciKit-learn machine learning model. It's available [here](https://youtu.be/2Rrz7orwJvU)
 
 You can find below the pipeline to develop a TinyML project :
 
