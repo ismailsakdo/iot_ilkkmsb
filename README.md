@@ -16,10 +16,10 @@ Then this model has been exported into c code .h file. To convert the model we h
 
 ## [Arduino part](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266/tree/master/Arduino%20code/MAKEIT_SKlearn_Orientation_spot)
 
-In this part I have used VS code and Arduino IDE to deploy the model onto the [ESP8266 WEMOS D1 mini lite](https://shopee.com.my/product/110910897/6506668056?gclid=Cj0KCQjwoeemBhCfARIsADR2QCvAm6SHw3rSFEKv2D6YZI35avUBvZwwjMw4xG5S5XS1iTIA9RsA2TQaAiijEALw_wcB). To do it we had to import our model, and the libraries to use I2C protocol and MPU6050 acccelerometer on the ESP8266.
+In this part I have used VS code and Arduino IDE to deploy the model onto the [ESP8266 WEMOS D1 mini lite](https://shopee.com.my/product/110910897/6506668056?gclid=Cj0KCQjwoeemBhCfARIsADR2QCvAm6SHw3rSFEKv2D6YZI35avUBvZwwjMw4xG5S5XS1iTIA9RsA2TQaAiijEALw_wcB). To do it we had to import our model, and the libraries to use I2C protocol and HDC1080 temperature and humidity sensor on the ESP8266.
 
 Here is the schema of the wiring : 
 
-![Wiring schema](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266/blob/master/Assets/D1WemosMini_MPU6050.png?raw=true)
+![Wiring schema](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/circuit.png?raw=true)
 
-To conclude by running the code with get an accuracy about 100% which is quite satisfiying.
+To conclude by running the code with get an accuracy about 193% which is quite satisfiying.
