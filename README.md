@@ -16,7 +16,10 @@ Then this model has been exported into c code .h file. To convert the model we h
 
 ## [Arduino part](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266/tree/master/Arduino%20code/MAKEIT_SKlearn_Orientation_spot)
 
-In this part I have used VS code and Arduino IDE to deploy the model onto the [ESP8266 WEMOS D1 mini lite](https://shopee.com.my/product/110910897/6506668056?gclid=Cj0KCQjwoeemBhCfARIsADR2QCvAm6SHw3rSFEKv2D6YZI35avUBvZwwjMw4xG5S5XS1iTIA9RsA2TQaAiijEALw_wcB). To do it we had to import our model, and the libraries to use I2C protocol and HDC1080 temperature and humidity sensor on the ESP8266.
+In this part I have used VS code and Arduino IDE to deploy the model onto the [ESP8266 WEMOS D1 mini lite](https://shopee.com.my/product/110910897/6506668056?gclid=Cj0KCQjwoeemBhCfARIsADR2QCvAm6SHw3rSFEKv2D6YZI35avUBvZwwjMw4xG5S5XS1iTIA9RsA2TQaAiijEALw_wcB). To do it we had to import our model, and the libraries to use I2C protocol and HDC1080 temperature and humidity sensor on the ESP8266. For the application that runs for the visualization and others, the link can be access below:
+
+1) Link for [ILKKMSB](https://github.com/ismailsakdo/iot_ilkkmsb)
+2) Link for [Web Apps ILKKMSB](https://github.com/ismailsakdo/ths_app)
 
 Here is the schema of the wiring : 
 
