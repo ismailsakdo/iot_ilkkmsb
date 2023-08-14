@@ -22,4 +22,4 @@ Here is the schema of the wiring :
 
 ![Wiring schema](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/circuit.png?raw=true)
 
-To conclude by running the code with get an accuracy about 193% which is quite satisfiying.
+To conclude by running the code with get an accuracy about 90% which is quite satisfiying.
