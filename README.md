@@ -8,7 +8,7 @@ my youtube channel MakeIT. This project is about tiny machine learning and how t
 
 You can find below the pipeline to develop a TinyML project :
 
-![Pipeline](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266/blob/master/Assets/pipeline.png?raw=true)
+![Pipeline](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/logo.png?raw=true)
 
 
 ## [Python part](https://github.com/BaptisteZloch/MakeIT-How-to-deploy-SK-learn-model-on-ESP8266/tree/master/Python%20notebook)
