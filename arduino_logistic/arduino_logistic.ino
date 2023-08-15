@@ -14,13 +14,13 @@ Adafruit_SSD1306 display(128, 64, & Wire, -1);
 ClosedCube_HDC1080 hdc1080;
 
 //------------- WiFi -----
-const char* ssid = "iot_kdo@unifi"; //--> Your wifi name or SSID.
-const char* password = "ismailsa2022"; //--> Your wifi password.
+const char* ssid = "username"; //--> Your wifi name or SSID.
+const char* password = "password"; //--> Your wifi password.
 const char* host = "script.google.com";
 const int httpsPort = 443;
 
 WiFiClientSecure client; //--> Create a WiFiClientSecure object.
-String GAS_ID = "AKfycbwe99Z1JAyDYnKa3dy0WypQdGTeEK9C7tEcFy1-DbyVAgH6DHWKLyj1C6Gkr_2lKVR-"; //--> spreadsheet script ID
+String GAS_ID = "XXXX-DbyVAgH6DHWKLyj1C6Gkr_2lKVR-"; //--> spreadsheet script ID
 
 //------ end of WiFi
 
