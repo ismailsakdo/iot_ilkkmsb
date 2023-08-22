@@ -29,7 +29,7 @@ To conclude by running the code with get an accuracy about 90% which is quite sa
 
 ## [Inforgraphic Development](https://ths.ilkkmsb.edu.my)
 
-Let us learn the basic of the development using this steps. Interested to join us, [REGISTER HERE](https://spsshelper.wasap.my). There are 13 important steps (without) electronics discussion when to learn implementing this project. Before dive into this technical details, let us answer this [SURVEY](https://docs.google.com/forms/d/e/1FAIpQLSd_-rdpB3TI9kPT1e3keSa4b7VBOHB9cFocjUfOxjCgfh7MDw/viewform) to get the idea of the Sick Building Syndrome (SBS) that you possibly impacted due to poor indoor air quality/ indoor environmental quality.
+Let us learn the basic of the development using this steps. Interested to join us, [REGISTER HERE](https://spsshelper.wasap.my). There are 13 important steps (without) electronics discussion when to learn implementing this project. Before dive into this technical details, let us answer this [SURVEY](https://docs.google.com/forms/d/e/1FAIpQLSd_-rdpB3TI9kPT1e3keSa4b7VBOHB9cFocjUfOxjCgfh7MDw/viewform) to get the idea of the Sick Building Syndrome (SBS) that you possibly impacted due to poor indoor air quality/ indoor environmental quality. 
 
 ### Step 1 - Exploratory Data Analysis and Machine Learning Algorithm Testing
 This chapter, the data from previous PhD research had been analyzed and use for identifying the suitable ML algorithm. Python module and Scikit-Learn library had been used.
