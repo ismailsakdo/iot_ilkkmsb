@@ -58,3 +58,7 @@ In this ste, we then prepare the electronics circuit and start programming the m
 ### Step 7 - Adaptation of the ML Model in MCU
 In this step, we include the machine learning model as C language in the sketch together with the model equation. This was done to ensure the output of the IEQ parameters (Temperature and Humidity) can successfuly predict the outcome based on ML model.
 ![Arduino ML Library](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step7.png?raw=true)
+
+### Step 8 - Testing the Output from MCU
+In this step, we test the output from the MCU by using the library and arduino sketch. Testing was also perform to calibrate/ verify the condition of the sensor and the predicted output.
+![MCU Testing ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step8.png?raw=true)
