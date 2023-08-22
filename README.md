@@ -70,3 +70,15 @@ In this step, we capture the data that had been read by the sensor (from ESP8266
 ### Step 10 - Summarizing Record & Building Smart Applications
 In this step, we convert the granular data into more manageable data sources to be utilized in Appsheet for analysis and creation of mobile apps. The mobile Apps was important to enable the engineers to record any problem related to mechanical ventilation system and their related components. 
 ![GS and Appsheet](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step10.png?raw=true)
+
+### Step 11 - Appsheet and Report Generation
+In this interesting step, the data from Google Sheet had been converted into representative condition by hours and date. Then the Mobile Applications was build using AppSheet to integrate with the investigation report development and inspection protocol. This help the engineers/ maintainance personnel to record any problem observed during operation of mechanical ventilation system. Automatic bot from Appsheet was used to generate report to be used as official document for record keeping and ML applications. Mobile Applications can be access [HERE](https://www.appsheet.com/start/ae4f326e-96f9-47cf-97a5-2cb82fe976d8?platform=desktop#viewStack[0][identifier][Type]=Control&viewStack[0][identifier][Name]=Temperature&appName=ThermoHygroSenseV2-744365623).
+![Appsheet and Pdf](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step11.png?raw=true)
+
+### Step 12 - LookerStudio and Dashboard Development
+In this last steps, Google Data Studio or LookerStudio was integrate with the Google Sheet data. This enable the report generation mechanism much more efficient and robust.
+![Looker and Appsheet](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step12.png?raw=true)
+
+### Step 13 - Additional Web Apps For Analyst and Engineers
+Additional approach was used to enable the data scientist and engineers to visualize and predict the outcome of the health events based on IEQ parameters namely as temperature and humidity. The application to visualize the real-time data is shown [HERE](https://ilkkmsb.streamlit.app/), and the application to predict the health events based on temperature and humidity setting can be found [HERE](https://ilkkmsbths.streamlit.app/).
+![Streamlit](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step13.png?raw=true)
