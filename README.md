@@ -31,10 +31,30 @@ To conclude by running the code with get an accuracy about 90% which is quite sa
 
 Let us learn the basic of the development using this steps. Interested to join us, [REGISTER HERE](https://spsshelper.wasap.my). There are 12 important steps (without) electronics discussion when to learn implementing this project.
 
-### Exploratory Data Analysis and Machine Learning Algorithm Testing
+### Step 1 - Exploratory Data Analysis and Machine Learning Algorithm Testing
 This chapter, the data from previous PhD research had been analyzed and use for identifying the suitable ML algorithm. Python module and Scikit-Learn library had been used.
 ![EDA and ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step1.png?raw=true)
 
-### Machine Learning Model Evaluation, Hyperparameter Testing
+### Step 2 - Machine Learning Model Evaluation, Hyperparameter Testing
 This step, the data best algorithm set/ selected will be tested using hyperparameter approach. The best model will be further used in the ML convertion.
 ![EDA and ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step2.png?raw=true)
+
+### Step 3 - Visualization of The Tested Algorithm
+This step, the data had been visualize using python based on selected algorithm and the producton of the windows applications/ computer applications for testing and validating purposes.
+![EDA and ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step3.png?raw=true)
+
+### Step 4 - Visualization of The Tested Algorithm & Algorithm Deployment
+This is special steps where the ML algorithm had been deployed to ensure the use of the algorithm can be done across different platform around the world (WebApps Module). 
+![EDA and ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step4.png?raw=true)
+
+### Step 5 - Convertion of the Model into C Language
+In this ste, the model that had been produce, was converted into the C language for embedded technology applications. Arduino IDE and C++
+![EDA and ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step5.png?raw=true)
+
+### Step 6 - Convertion of the Model into C Language
+In this ste, we then prepare the electronics circuit and start programming the micro-controller (MCU) using ESP8266 and industrial sensors for measuring the IEQ parameters
+![EDA and ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step6.png?raw=true)
+
+### Step 7 - Adaptation of the ML Model in MCU
+In this step, we include the machine learning model as C language in the sketch together with the model equation. This was done to ensure the output of the IEQ parameters (Temperature and Humidity) can successfuly predict the outcome based on ML model.
+![EDA and ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step7.png?raw=true)
