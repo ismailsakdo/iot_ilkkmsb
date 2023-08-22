@@ -62,3 +62,11 @@ In this step, we include the machine learning model as C language in the sketch 
 ### Step 8 - Testing the Output from MCU
 In this step, we test the output from the MCU by using the library and arduino sketch. Testing was also perform to calibrate/ verify the condition of the sensor and the predicted output.
 ![MCU Testing ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step8.png?raw=true)
+
+### Step 9 - Cloud Computing and Records
+In this step, we capture the data that had been read by the sensor (from ESP8266) and sent the data straight into the Google Clouds (using Google Apps Script). We use Google Sheets to store data in order to easily manipulate the Dashboard/ related applications.
+![GS and Arduino](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step9.png?raw=true)
+
+### Step 10 - Summarizing Record & Building Smart Applications
+In this step, we convert the granular data into more manageable data sources to be utilized in Appsheet for analysis and creation of mobile apps. The mobile Apps was important to enable the engineers to record any problem related to mechanical ventilation system and their related components. 
+![GS and Appsheet](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step10.png?raw=true)
