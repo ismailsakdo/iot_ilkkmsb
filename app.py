@@ -23,7 +23,7 @@ df = df.sort_values(by='Date', ascending=False)
 
 # Streamlit App
 def main():
-    st.title('IoT Data Visualization')
+    st.title('ThermoHygroSense: Indoor Air Temperature and Humidity IOT Monitor')
 
     st.write('## Display All Data')
 
