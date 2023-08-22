@@ -31,6 +31,10 @@ To conclude by running the code with get an accuracy about 90% which is quite sa
 
 Let us learn the basic of the development using this steps. Interested to join us, [REGISTER HERE](https://spsshelper.wasap.my). There are 12 important steps (without) electronics discussion when to learn implementing this project.
 
-# Exploratory Data Analysis and Machine Learning Algorithm Testing
-This chapter, the data from previous PhD research had been analyzed and use for identifying the suitable ML algorithm.
+### Exploratory Data Analysis and Machine Learning Algorithm Testing
+This chapter, the data from previous PhD research had been analyzed and use for identifying the suitable ML algorithm. Python module and Scikit-Learn library had been used.
 ![EDA and ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step1.png?raw=true)
+
+### Machine Learning Model Evaluation, Hyperparameter Testing
+This step, the data best algorithm set/ selected will be tested using hyperparameter approach. The best model will be further used in the ML convertion.
+![EDA and ML](https://github.com/ismailsakdo/iot_ilkkmsb/blob/main/Assets/step2.png?raw=true)
